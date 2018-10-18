@@ -1,5 +1,5 @@
-# Example Progress Journal
+#Progress Journal
 
-## Week 0 (October 1)
+##Week 4 (October 18)
 
-[Here](files/example_homework_0.html) is my 5 interesting file. 
+[Here](files/Homework1.html) is my first homework on match and odds
