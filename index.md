@@ -2,4 +2,4 @@
 
 ##Week 5 (October 26)
 
-[Here](files/Homework2.html) is my first homework on match and odds
+[Here](files/Homework2.html) is my second homework for pca of football matches and odd.
