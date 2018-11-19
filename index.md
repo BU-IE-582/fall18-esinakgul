@@ -1,5 +1,5 @@
 #Progress Journal
 
-##Week 5 (October 26)
+##Week 9 (November 19)
 
-[Here](files/Homework2.html) is my second homework for pca of football matches and odd.
+[Here](files/Homework3.html) is my third homework on uWaveGestureLibrary and ECG data. 
