@@ -11,3 +11,9 @@
 ## Week 14 (December 28)
 
 [Here](files/Homework Bonus.html) is my bonus homework on clusters. 
+
+## Project
+
+[Here](files/Project_Group13.html) is group 13 project file.
+
+[Here](files/ProjectFinal_Group13.R) is group 13 project code.
