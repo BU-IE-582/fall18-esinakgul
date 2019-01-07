@@ -17,3 +17,7 @@
 [Here](files/Project_Group13.html) is group 13 project file.
 
 [Here](files/ProjectFinal_Group13.R) is group 13 project code.
+
+## Final Week (January 7)
+
+[Here](files/Homework_5.html) is my fifth homework about clusters and bagging. 
